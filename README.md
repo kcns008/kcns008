@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I focus on building, troubleshooting, and managing Kubernetes clusters.
+Building, troubleshooting, and managing Openshift / Kubernetes clusters sometime with GPUs.
 
 I'm currently building:
 - [**cluster-code**](https://github.com/kcns008/cluster-code) - AI agent for K8s / OCP cluster management.
